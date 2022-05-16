@@ -1,0 +1,11 @@
+debug/Functions.o
+debug/background.o
+debug/level.o
+debug/level_endless.o
+debug/level_online.o
+debug/main.o
+debug/menu.o
+debug/menu_wyb_lvl.o
+debug/menu_wyb_online.o
+debug/rock.o
+debug/train.o
